@@ -14,8 +14,8 @@ Należy dążyć do zapewnienia interdyscyplinarności zadań, tak aby studenci 
 
 ### Wybrany temat: Projekt, realizacja, pomiary i wizualizacja charakterystyki promieniowania anteny
 
-Temat bardziej szczegółowo opisany w `Temat_projektu.pdf`.
+**Temat** bardziej szczegółowo opisany w `Temat_projektu.pdf`.
 
-Fizyczna antena podczas pomiarów w komorze bezechowej PIT-Radwar'u przedstawiona na zdjęciach (`.jpg`).
+**Zdjęcia** fizycznie wykoanej anteny oraz również podczas procesu pomiarów w komorze bezechowej PIT-Radwar'u przedstawiono w folderze `\images`.
 
-Raport z pełnego przebiegu realizacji projektu: `Sprawozdanie.pdf`
+**Raport** z pełnego przebiegu realizacji projektu: `Sprawozdanie.pdf`
